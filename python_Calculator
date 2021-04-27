@@ -1,0 +1,14 @@
+
+num1= int(input("Enter Number 1:"))
+num2 =int( input ("Enter number 2:"))
+op = input ("Enter opration(+,-,*,/):")
+
+if op == "+":
+    print(num1 + num2)
+elif op == "-":
+    print(num1 - num2 )
+elif op == "*":
+    print(num1 * nu2 )
+elif op == "/" :
+    print(num1 / num2 )
+#created my com.codingEagle (mohmmed)
